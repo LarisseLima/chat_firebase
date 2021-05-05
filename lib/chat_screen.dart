@@ -102,7 +102,7 @@ class _ChatScreenState extends State<ChatScreen> {
       appBar: AppBar(
         title: Text(_currentUser != null
             ? 'Olá, ${_currentUser.displayName}'
-            : 'Chat App'),
+            : 'Chat Zap'),
         centerTitle: true,
         elevation: 0,
         actions: <Widget>[
