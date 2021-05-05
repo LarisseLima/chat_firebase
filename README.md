@@ -28,7 +28,7 @@
 <h2 align="center">Preview 📱</h2>
 
    <p align="center">
-      <img src="assets/chat.pn" width="400" alt="Chat screen">
+      <img src="assets/chat.png" width="400" alt="Chat screen">
    </p>
 
 ---
@@ -50,7 +50,7 @@
 <h2 align="center">Como Rodar 🤔</h2>
 
    ```
-   First of all, correctly configure the Flutter development environment on your machine, see https://flutter.dev/docs/get-started/install
+   First of all, correctly configure the Flutter development environment on your machine, <br> see https://flutter.dev/docs/get-started/install<br>
    
    - Clone this repository:
    $ git clone https://github.com/LarisseLima/chat_firebase
