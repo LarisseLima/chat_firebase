@@ -38,7 +38,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "br.com.ciolfi.chat"
+        applicationId "br.com.lima.chat"
         minSdkVersion 16
         targetSdkVersion 28
         multiDexEnabled true

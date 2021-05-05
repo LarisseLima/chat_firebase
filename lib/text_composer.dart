@@ -1,5 +1,4 @@
 import 'dart:io';
-
 import 'package:flutter/material.dart';
 import 'package:image_picker/image_picker.dart';
 
@@ -34,6 +33,7 @@ class _TextComposerState extends State<TextComposer> {
             icon: Icon(Icons.photo_camera),
             onPressed: () async {
               final File imgFile =
+                  // ignore: deprecated_member_use
                   await ImagePicker.pickImage(source: ImageSource.camera);
               if (imgFile == null) return;
               widget.sendMessage(imgFile: imgFile);
