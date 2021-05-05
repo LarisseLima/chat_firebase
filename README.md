@@ -50,7 +50,8 @@
 <h2 align="center">Como Rodar 🤔</h2>
 
    ```
-   First of all, correctly configure the Flutter development environment on your machine, <br> see https://flutter.dev/docs/get-started/install<br>
+   First of all, correctly configure the Flutter development environment on your machine,
+   see https://flutter.dev/docs/get-started/install
    
    - Clone this repository:
    $ git clone https://github.com/LarisseLima/chat_firebase
