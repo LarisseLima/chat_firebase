@@ -1,4 +1,4 @@
-<h1 align="center">Chat</h1>
+<h1 align="center">Chat Firebase</h1>
 
 
 <h2 align="center">Tópicos 📋</h2>
@@ -50,19 +50,19 @@
 <h2 align="center">Como Rodar 🤔</h2>
 
    ```
-   First of all, correctly configure the Flutter development environment on your machine,
-   see https://flutter.dev/docs/get-started/install
+   Primeiro tenha todo o SKD do FLUTTER em sua máquina
+   https://flutter.dev/docs/get-started/install
    
-   - Clone this repository:
+   - Clone o repositório:
    $ git clone https://github.com/LarisseLima/chat_firebase
 
-   - Enter in directory:
+   - Entre na pasta:
    $ cd chat
 
-   - For install dependencies:
+   - Instale as dependências:
    $ flutter pub get
 
-   - Run the app: 
+   - Rode o  app: 
    $ flutter run
    ```
 
