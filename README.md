@@ -50,7 +50,7 @@
 <h2 align="center">Como Rodar 🤔</h2>
 
    ```
-   Primeiro tenha todo o SKD do FLUTTER em sua máquina
+   Primeiro cconfigure o  SKD para rodar o  FLUTTER em sua máquina.
    https://flutter.dev/docs/get-started/install
    
    - Clone o repositório:
