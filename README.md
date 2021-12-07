@@ -39,7 +39,7 @@
    <p>
    
 - Envio de mensagens
-    - Login com o Google,
+    - Login com autenticação Google,
     - Imagem de perfil do usuário,
     - Envio de imagens,
      
