@@ -33,7 +33,6 @@
 
 ---
 
-
 <h2 align="center">Funcionalidades 🛠️</h2>
 
    <p>
@@ -65,7 +64,6 @@
    - Rode o  app: 
    $ flutter run
    ```
-
 ---
 
 <h2 align="center">Como Contribuir 💪</h2>
@@ -94,8 +92,6 @@
    ---
 
    >Esse projeto foi desenvolvido com ❤️ por **[@Larisse Lima](https://www.linkedin.com/in/larisselima/)**
-  
 
 ---
 
- 
