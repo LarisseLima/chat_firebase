@@ -1,6 +1,5 @@
 <h1 align="center">Chat Firebase</h1>
 
-
 <h2 align="center">Tópicos 📋</h2>
 
    <p>
@@ -80,7 +79,6 @@
    - Envie suas mudanças:
    $ git push origin my-feature
    ```
-
 ---
 
 <h2 align="center">Licença 📝</h2>
@@ -94,4 +92,3 @@
    >Esse projeto foi desenvolvido com ❤️ por **[@Larisse Lima](https://www.linkedin.com/in/larisselima/)**
 
 ---
-
