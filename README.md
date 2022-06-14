@@ -12,11 +12,9 @@
    - [Licença 📝](#licença-)
 
    </p>
-
 ---
 
 <h2 align="center">Sobre 📖</h2>
-   
 <p align="center">
    Chat foi criado para treino de autenticação com firebase, Realtime Database.<br>
   
